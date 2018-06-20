@@ -3,3 +3,14 @@ cassandra/.vagrant/*
 cassandra/ubuntu-xenial-16.04-cloudimg-console.log
 hss/.vagrant/*
 mme/.vagrant/*
+cdf/.vagrant/*
+cdf/ubuntu-xenial-16.04-cloudimg-console.log
+ctf/.vagrant/*
+ctf/ubuntu-xenial-16.04-cloudimg-console.log
+dns/.vagrant/*
+mme/ubuntu-xenial-16.04-cloudimg-console.log
+dns/ubuntu-xenial-16.04-cloudimg-console.log
+experimental/server1/.vagrant/*
+experimental/server1/ubuntu-xenial-16.04-cloudimg-console.log
+experimental/server2/.vagrant/*
+experimental/server2/ubuntu-xenial-16.04-cloudimg-console.log
