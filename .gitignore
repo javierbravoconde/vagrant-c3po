@@ -14,3 +14,5 @@ experimental/server1/.vagrant/*
 experimental/server1/ubuntu-xenial-16.04-cloudimg-console.log
 experimental/server2/.vagrant/*
 experimental/server2/ubuntu-xenial-16.04-cloudimg-console.log
+ca/.vagrant/*
+ca/ubuntu-xenial-16.04-cloudimg-console.log
